@@ -1,0 +1,6 @@
+@PensionHackathonBackend_HostAddress = http://localhost:5223
+
+GET {{PensionHackathonBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
